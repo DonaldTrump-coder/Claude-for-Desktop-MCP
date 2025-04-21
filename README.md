@@ -14,27 +14,27 @@
 <br>
 ### 1.ÏÂÔØ°²×°°ü
 ·ÃÎÊ¹Ù·½ÍøÕ¾µØÖ·[Download Node.js](https://nodejs.org/zh-cn/download/)£¬Ñ¡ÔñĞèÒªµÄ°æ±¾ÏÂÔØ£¬ÎÒÑ¡ÔñµÄÊÇWindows x64¼Ü¹¹£¬ÔÙµã»÷ÏÂÔØWindows °²×°³ÌĞò¡£
-![alt text](image.png)
+![alt text](Resources/image.png)
 ### 2.°²×°
 ¸ú×Å°²×°Ïòµ¼µãÏÂÈ¥¼´¿É
 
-![alt text](image-1.png)
+![alt text](Resources/image-1.png)
 
 ¸ù¾İ¸öÈËĞèÇóÑ¡Ôñ°²×°Â·¾¶
 
-![alt text](image-2.png)
+![alt text](Resources/image-2.png)
 
 Ö±½Ó¶¼Ñ¡ÔñÄ¬ÈÏ°²×°
 
-![alt text](image-3.png)
+![alt text](Resources/image-3.png)
 
 ²»Ñ¡Ôñ×Ô¶¯°²×°±ØÒª¹¤¾ß
 
-![alt text](image-5.png)
+![alt text](Resources/image-5.png)
 
 µã»÷ Install ½øĞĞ°²×°
 
-![alt text](image-6.png)
+![alt text](Resources/image-6.png)
 
 °²×°Íê±Ïºó£¬²âÊÔÊÇ·ñ°²×°³É¹¦£¬ÔÚ cmd ÖÕ¶ËÖĞÊäÈë
 ```
@@ -44,7 +44,7 @@ npm -v
 Èô¶¼ÄÜÏÔÊ¾°æ±¾ĞÅÏ¢£¬ËµÃ÷ Node.js °²×°³É¹¦
 ### 3.»·¾³ÅäÖÃ
 £¨1£©ÕÒµ½°²×°µÄÄ¿Â¼£¬ÔÚ°²×°Ä¿Â¼ÏÂĞÂ½¨Á½¸öÎÄ¼ş¼Ğ¡¾node_global¡¿ºÍ¡¾node_cache¡¿
-![alt text](²¶»ñ.PNG)
+![alt text](Resources/²¶»ñ.PNG)
 
 £¨2£©´´½¨Íê±Ïºó£¬Ê¹ÓÃ¹ÜÀíÔ±Éí·İ´ò¿ª cmd ÃüÁî´°¿Ú£¬ÊäÈë
 ```
@@ -53,27 +53,27 @@ npm config set cache "ÄãµÄÂ·¾¶\node_cache" £¨¸´ÖÆÄã¸Õ¸Õ´´½¨µÄ"node_cache"ÎÄ¼ş¼ĞÂ
 ```
 £¨3£©ÅäÖÃ»·¾³±äÁ¿
 ¢Ù¡¾´ËµçÄÔ¡¿-µ¥»÷ÓÒ¼ü-¡¾ÊôĞÔ¡¿-¡¾¸ß¼¶ÏµÍ³ÉèÖÃ¡¿-¡¾»·¾³±äÁ¿¡¿
-![alt text](image-7.png)
+![alt text](Resources/image-7.png)
 
 ¢Ú ÔÚ¡¾ÏµÍ³±äÁ¿¡¿ÖĞµã»÷¡¾ĞÂ½¨¡¿
-![alt text](image-8.png)
+![alt text](Resources/image-8.png)
 ±äÁ¿Ãû£ºNODE_PATH
 ±äÁ¿Öµ£ºC:\Program Files\nodejs\node_global\node_modules
-![alt text](image-9.png)
+![alt text](Resources/image-9.png)
 È»ºóÄã¾Í»á·¢ÏÖ¡¾node_global¡¿Àï¶à³öÁËÒ»¸ö¡¾node_modules¡¿ÎÄ¼ş¼Ğ
-![alt text](image-10.png)
+![alt text](Resources/image-10.png)
 Tips: Èç¹ûÊäÈë±äÁ¿ÖµÖ®ºóÃ»ÓĞ×Ô¶¯´´½¨¡¾node_modules¡¿ÎÄ¼ş¼Ğ£¬¾ÍÔÚ¡¾node_global¡¿ÏÂÊÖ¶¯´´½¨Ò»¸ö¡¾node_modules¡¿ÎÄ¼ş¼Ğ£¬ÔÙ¸´ÖÆÄã´´½¨µÄ¡¾node_modules¡¿ÎÄ¼ş¼ĞµÄÂ·¾¶µØÖ·µ½±äÁ¿Öµ
 
 ¢Û±à¼­¡¾ÓÃ»§±äÁ¿¡¿ÖĞµÄ¡¾Path¡¿
-![alt text](image-11.png)
+![alt text](Resources/image-11.png)
 
 ¢Ü½«Ä¬ÈÏµÄ C ÅÌÏÂ¡¾ AppData\Roaming\npm ¡¿ĞŞ¸Ä³É ¡¾node_global¡¿µÄÂ·¾¶£¬µã»÷È·¶¨
-![alt text](image-12.png)
-![alt text](image-13.png)
+![alt text](Resources/image-12.png)
+![alt text](Resources/image-13.png)
 
 ¢İÔÚ¡¾ÏµÍ³±äÁ¿¡¿ÖĞÑ¡Ôñ¡¾Path¡¿µã»÷¡¾±à¼­¡¿Ìí¼Ó¡¾NODE_PATH¡¿£¬ËæºóÒ»Ö±µã»÷¡¾È·¶¨¡¿
-![alt text](image-14.png)
-![alt text](image-16.png)
+![alt text](Resources/image-14.png)
+![alt text](Resources/image-16.png)
 
 ### 4.²âÊÔ
 ÊäÈë£º
@@ -81,7 +81,7 @@ Tips: Èç¹ûÊäÈë±äÁ¿ÖµÖ®ºóÃ»ÓĞ×Ô¶¯´´½¨¡¾node_modules¡¿ÎÄ¼ş¼Ğ£¬¾ÍÔÚ¡¾node_global¡¿Ï
 npm install express -g   // -g´ú±íÈ«¾Ö°²×°
 ```
 Èô³öÏÖÒÔÏÂ½á¹û¼´ÎªÅäÖÃ³É¹¦
-![alt text](²¶»ñ-1.PNG)
+![alt text](Resources/²¶»ñ-1.PNG)
 
 ## ËÄ¡¢Ìí¼ÓÎÄ¼şÏµÍ³ MCP ·şÎñÆ÷
 ÒÔ Windows ÏµÍ³ÎªÀı£¬½øÈë Claude for Desktop £¬µã»÷×óÉÏ½Ç£¬ÕÒµ½ Settings ²¢½øÈë£¬ÔÙ½øÈë Developer Ò»À¸£¬µã»÷ Edit Config
@@ -104,5 +104,5 @@ npm install express -g   // -g´ú±íÈ«¾Ö°²×°
 È·±£ "C:\\Users\\username\\Desktop", "C:\\Users\\username\\Downloads" ÎªÄúÏ£Íû Claude ÄÜ¹»·ÃÎÊºÍĞŞ¸ÄµÄÓĞĞ§Ä¿Â¼¡£ËüÒÑÉèÖÃÎªÊÊÓÃÓÚ×ÀÃæºÍÏÂÔØÁ½¸öÂ·¾¶£¬µ«ÄúÒ²¿ÉÒÔÌí¼Ó¸ü¶àÂ·¾¶¡£
 ## Îå¡¢ÖØÆô Claude ²¢ÔËĞĞ
 ¸üĞÂÍêÅäÖÃÎÄ¼şºó£¬ÖØĞÂÆô¶¯ Claude for Desktop
-µÈ´ıÒ»»áºó£¬ÄúÓ¦¸Ã»á¿´µ½ÔÚÊäÈë¿òµÄÏÂ·½¿´µ½Ò»¸ö´¸×ÓÍ¼±ê![alt text](image-17.png)
+µÈ´ıÒ»»áºó£¬ÄúÓ¦¸Ã»á¿´µ½ÔÚÊäÈë¿òµÄÏÂ·½¿´µ½Ò»¸ö´¸×ÓÍ¼±ê![alt text](Resources/image-17.png)
 ½ÓÏÂÀ´Äú¿ÉÒÔÍ¨¹ı Claude for Desktop ¶ÔÄúµÄÎÄ¼ş½øĞĞĞŞ¸ÄÀ²£¬Ö»ĞèÔÚ¶Ô»°¿òÖĞÊäÈëÄúÏë½øĞĞµÄ²Ù×÷£¬Claude »áÔÚÕ÷ÇóÄúµÄÍ¬Òâºó×Ô¶¯¶ÔÄúÉè¶¨µÄÂ·¾¶ÏÂµÄÎÄ¼ş½øĞĞ¶ÔÓ¦µÄ¸ü¸Ä²Ù×÷
